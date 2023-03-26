@@ -9,7 +9,7 @@ Option to play again after a game ends
 ## Installation
 To install the program, follow these steps:
 
-- Download the program files from [insert link here].
+- Download the program files from https://github.com/Ravish108Coder/dice-game/archive/refs/heads/main.zip .
 - Extract the files to a desired location on your computer.
 - Open the index.html file in your preferred web browser.
 ## Usage
@@ -22,4 +22,4 @@ To play the dice game, follow these steps:
 - The game will continue until you reach a certain point threshold or until you lose by guessing incorrectly too many times.
 - Click the "Play Again" button to start a new game.
 ## Credits
-This program was created by [insert your name or organization here]. If you have any questions or feedback, please contact us at [insert contact information here].
+This program was created by Ravish Kumar. If you have any questions or feedback, please contact us at https://github.com/Ravish108Coder .
